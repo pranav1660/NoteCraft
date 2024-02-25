@@ -121,12 +121,6 @@ https://notemaker.onrender.com
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  https://github.com/tusharjham/NoteMaker.git
-```
-
 Go to the project directory
 
 ```bash
